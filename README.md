@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juanicolombo97
-- 👀 I’m interested in cybersecurity and python.
+- 👀 I’m interested in cybersecurity, webscraping, backend development and cryptocurrencies.
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on projects where i can improve mi skills.
 - 📫 How to reach me juanicolombo@icloud.com
